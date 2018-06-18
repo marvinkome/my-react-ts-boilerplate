@@ -1,9 +1,6 @@
 import * as React from 'react';
 import { render } from 'react-dom';
-
-const App = () => (
-    <p>Hello World</p>
-);
+import { App } from './app';
 
 render(
     <App/>,
